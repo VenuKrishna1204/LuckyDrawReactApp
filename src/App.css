@@ -1,0 +1,31 @@
+h2{
+  text-align: center;
+  color:red;
+  padding: 10px;
+  font-style: italic;
+  font-family: 'Courier New', Courier, monospace;
+}
+#container{
+  display: flex;
+}
+.Rules{
+  height: 200px;
+  width: 700px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.image
+{
+  height: 200px;
+  width: 400px;
+  padding: 10px;
+}
+.footer {
+  text-align: center;
+  background-color: #7d2424;
+  position:bottom;;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  font:bold 16px Arial, sans-serif;
+  font-family: 'Courier New', Courier, monospace;
+}
